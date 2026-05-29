@@ -1,4 +1,3 @@
-# 📊 Indian Startup Financial Health Dashboard
 
 > An automated business intelligence system that ingests public Indian startup 
 > funding data, scores each startup on a Financial Health metric, and generates 
